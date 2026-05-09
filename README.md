@@ -35,5 +35,8 @@ using Excel and SQL.
 - `sales_queries.sql` — All SQL queries used in analysis
 - `screenshots/` — Dashboard and chart screenshots
 
-## Dashboard Preview
-(Power BI Dashboard coming soon)
+## 📊 Current Progress
+
+* Completed Excel-based sales analysis using Pivot Tables and charts
+* Performed SQL analysis with joins, aggregations, and business queries
+* Power BI dashboard currently under development
