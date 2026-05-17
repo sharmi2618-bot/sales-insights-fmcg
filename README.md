@@ -44,12 +44,6 @@ The dashboard helps analyze:
 
 ---
 
-## 📸 Dashboard Preview
-
-### Sales Performance Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
-
----
 
 ## 🎯 Business Insights
 - Identified top-performing markets and customers
